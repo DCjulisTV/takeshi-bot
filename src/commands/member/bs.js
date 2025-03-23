@@ -2,7 +2,7 @@ const { PREFIX } = require(`${BASE_DIR}/config`);
 const { Client } = require('brawl-api-wrapper');
 const { WarningError } = require(`${BASE_DIR}/errors/WarningError`);
 
-const client = new Client('YOUR_API_KEY_HERE');
+const client = new Client(eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2 FtZWFwaSIsImp0aSI6ImNmOWEyNmFmLTQ4ZTYtNGM2YS04MTUyLWY0MDZjNDkyNTdlYyIsImlhdCI6MTc0Mjc3MTk0Nywic3ViIjoiZGV2ZWxvcGVyLzFhMjEyMGUyLWM2YzMtZDVlNC0wNTU4LTNhNWMwMTk3NDcyYiIsInNjb3BlcyI6WyJicmF3bHN0YXJzIl0sImxpbWl0cyI6W3sidGllciI6ImRldmVsb3Blci9zaWx2ZXIiLCJ0eXBlIjoidGhyb3R0bGluZyJ9LHsiY2lkcnMiOlsiNDUu MTYxLjI5LjE5IiwiNDUuMTYxLjI5LjE5Il0sInR5cGUiOiJjbGllbnQifV19.bg6CDoIeORyLNaSszoMoD86xdy6-Y8QHo_XW2XbQhFB4ECV-WbUPYhv8ToeWocee-21TV1z2f3P30Q4rP9I9ag');
 
 module.exports = {
   name: "brawlstars",
