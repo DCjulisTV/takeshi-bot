@@ -49,6 +49,7 @@ exports.menuMessage = () => {
 ▢ • ${PREFIX}to-image
 ▢ • ${PREFIX}gpt
 ▢ • ${PREFIX}mensagem
+▢ • ${PREFIX}bs
 
 
 ╰━━─「🚀」─━━`;
