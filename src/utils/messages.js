@@ -19,10 +19,13 @@ exports.menuMessage = () => {
 ▢
 ╰━━─「🪐」─━━
 
-╭━━⪩ DONO ⪨━━
+╭━━⪩ DONO Só pro dono ⪨━━
 ▢
 ▢ • ${PREFIX}off
 ▢ • ${PREFIX}on
+▢ • ${PREFIX}play-audio
+▢ • ${PREFIX}play-video
+▢ • ${PREFIX}ia-sticker
 ▢
 ╰━━─「🌌」─━━
 
@@ -40,16 +43,13 @@ exports.menuMessage = () => {
 ▢
 ▢ • ${PREFIX}attp
 ▢ • ${PREFIX}cep
-▢ • ${PREFIX}gpt-4
-▢ • ${PREFIX}ia-sticker
 ▢ • ${PREFIX}image
 ▢ • ${PREFIX}ping
-▢ • ${PREFIX}play-audio
-▢ • ${PREFIX}play-video
 ▢ • ${PREFIX}sticker
 ▢ • ${PREFIX}to-image
 ▢ • ${PREFIX}gpt
+▢ • ${PREFIX}mensagem
 
-▢
+
 ╰━━─「🚀」─━━`;
 };
