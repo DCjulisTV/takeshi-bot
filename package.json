@@ -1,7 +1,7 @@
 {
-  "name": "takeshi-bot",
+  "name": "schneider-bot",
   "version": "2.4.1",
-  "description": "Um bot de WhatsApp multifunções.",
+  "description": "o melhor bot",
   "main": "./src/index.js",
   "scripts": {
     "start": "node --watch ./src/index.js",
