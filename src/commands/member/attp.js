@@ -5,10 +5,10 @@ const {
 } = require(`${BASE_DIR}/errors/InvalidParameterError`);
 
 module.exports = {
-  name: "txtparafigura",
+  name: "attp",
   description: "Faz figurinhas animadas de texto.",
   commands: ["attp"],
-  usage: `${PREFIX}txtparafigura`,
+  usage: `${PREFIX}attp teste`,
   handle: async ({
     sendWaitReact,
     args,
