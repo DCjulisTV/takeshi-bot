@@ -31,23 +31,18 @@ exports.menuMessage = () => {
 ▢ • ${PREFIX}anti-link (1/0)
 ▢ • ${PREFIX}auto-responder (1/0)
 ▢ • ${PREFIX}ban
-▢ • ${PREFIX}hidetag
-▢ • ${PREFIX}welcome (1/0)
+▢ • ${PREFIX}marcartodos
+▢ • ${PREFIX}bemvindo (1/0)
 ▢
 ╰━━─「⭐」─━━
 
 ╭━━⪩ MENU ⪨━━
 ▢
-▢ • ${PREFIX}attp
-▢ • ${PREFIX}cep
-▢ • ${PREFIX}gpt-4
-▢ • ${PREFIX}ia-sticker
-▢ • ${PREFIX}image
+▢ • ${PREFIX}txtparafigura
+▢ • ${PREFIX}buscarcep
 ▢ • ${PREFIX}ping
-▢ • ${PREFIX}play-audio
-▢ • ${PREFIX}play-video
-▢ • ${PREFIX}sticker
-▢ • ${PREFIX}to-image
+▢ • ${PREFIX}imgparafigura
+▢ • ${PREFIX}figuraparaimg
 ▢
 ╰━━─「🚀」─━━`;
 };
