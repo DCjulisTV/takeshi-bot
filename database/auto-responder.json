@@ -10,5 +10,56 @@
     {
         "match": "Qual seu nome",
         "answer": "Meu nome é Takeshi Bot"
+    },{
+        "match": "juliano",
+        "answer": "ele é um cara foda, mt top"
+    },{
+        "match": "Juliano",
+        "answer": "ele é um cara foda, mt top"
+    },{
+        "match": "bom dia",
+        "answer": "bom dia"
+    },{
+        "match": "boa tarde",
+        "answer": "boa tarde"
+    },{
+        "match": "boa noite",
+        "answer": "boa noite, durma bem"
+    },{
+        "match": "boa noite",
+        "answer": "boa noite, durma bem"
+    },{
+        "match": "2infoA",
+        "answer": "turma a| segunda
+banco de dados
+interface web
+interface web
+intervalo
+computação em nuvem
+sistema web
+intervalo
+banco de dados
+ingles
+lmis
+|terça
+biologia
+quimica
+historia
+intervalo
+computaçao em nuvem
+educação fisica
+intervalo
+dispositivos moveis
+dispositivos moveis
+|quarta
+quimica
+fisica
+sistema web
+intervalo
+eacnt
+geografia
+intervalo
+geografia
+matematica"
     }
 ]
