@@ -48,6 +48,8 @@ exports.menuMessage = () => {
 ▢ • ${PREFIX}play-video
 ▢ • ${PREFIX}sticker
 ▢ • ${PREFIX}to-image
+▢ • ${PREFIX}gpt
+
 ▢
 ╰━━─「🚀」─━━`;
 };
